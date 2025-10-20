@@ -42,6 +42,7 @@ func TestSumFunc(t *testing.T) {
 		name   string // название теста
 		args   args   // аргументы
 		wanted int    // ожидаемое значение
+		//да
 	}{
 		{
 			name: "Test-2-positive",
